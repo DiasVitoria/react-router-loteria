@@ -1,0 +1,27 @@
+.quinaWrapper{
+    width: 20%;
+    max-width: 430px;
+    padding: 20px;
+
+    margin: 40px 0 0 40px;
+}
+
+
+.quinaWrapper h1 {
+    display: inline;
+    margin: 0 10px;
+    position: absolute;
+    margin-top: -5px;
+    color: #260085;
+    font-size: 30px;
+}
+
+.quinaWrapper h3{
+    color: #260085;
+}
+
+.quinaWrapper p {
+    color: #4c556c;
+    margin-top: 10px;
+}
+

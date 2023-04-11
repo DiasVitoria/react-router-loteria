@@ -1,14 +1,14 @@
 import { Provider } from './contexto';
 import "@fontsource/roboto"
 import "./index.css"
-import { PageLoteria } from './pages/pageLoteria';
+import { Caminhos } from './routes/routes';
 
 
 function App() {
 
   return (
     <Provider>
-      <PageLoteria />
+      <Caminhos />
     </Provider>
   );
 }
