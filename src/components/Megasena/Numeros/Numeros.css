@@ -1,0 +1,31 @@
+.numeroSorteado{
+    background-color: #209869;
+    padding: 15px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    margin: 45px 15px 0 50px;
+}
+
+.numeroswrapper {
+    display: flex;
+}
+
+.numerosContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.numerosContainer h1{
+    margin: 15px 0 0 50px;
+    color: #0066b3;
+}
+
+.numerosContainer p {
+    color: #4c556c;
+    margin-left: 55px;
+
+}

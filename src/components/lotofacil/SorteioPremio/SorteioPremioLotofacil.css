@@ -1,0 +1,27 @@
+.lotofacilWrapper{
+    width: 20%;
+    max-width: 430px;
+    padding: 20px;
+
+    margin: 10px 0 0 40px;
+}
+
+
+.lotofacilWrapper h1 {
+    display: inline;
+    margin: 0 10px;
+    position: absolute;
+    margin-top: -5px;
+    color: #930089;
+    font-size: 30px;
+}
+
+.lotofacilWrapper h3{
+    color: #930089;
+}
+
+.lotofacilWrapper p {
+    color: #4c556c;
+    margin-top: 10px;
+}
+
