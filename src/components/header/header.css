@@ -1,0 +1,33 @@
+.headerNav{
+    padding: 2px 0;
+    user-select: none;
+}
+
+.headerNav ul li{
+    display: inline-block;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.headerNav ul li{
+    font-weight: 600;
+    font-size: 20px;
+}
+/* 
+.headerNav ul li.active{
+
+} */
+
+.mega{
+    color: #209869;
+}
+.loto{
+    color: #930089;
+}
+.quina{
+    color: #260085;
+}
+
+.Active{
+    color: #ddd;
+}
